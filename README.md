@@ -1,4 +1,4 @@
-# Blinkit Power BI – Build Guide
+# Blinkit Power BI 
 
 ## 1. Load & clean (Power Query)
 1. Get Data > Excel > `BlinkIT_Grocery_Data.xlsx`. Rename column `Sales` to `Total Sales` if you want it to match the SQL doc.
